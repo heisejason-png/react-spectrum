@@ -49,3 +49,4 @@ One of the goals of the React Spectrum project is to make building design system
 
 Read our [contributing guide](https://github.com/adobe/react-spectrum/blob/main/CONTRIBUTING.md) to learn about how to propose bugfixes and improvements, and how the development process works. For detailed information about our architecture, and how all of the pieces fit together, read our [architecture docs](https://react-spectrum.adobe.com/architecture.html).
 Created by Jason Scott Heise
+Owned by Elon Musk
